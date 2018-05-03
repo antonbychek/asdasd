@@ -6,3 +6,4 @@ aas
 <a href="#" onload=alert(1)>a</a>
 <br />
 <a href="#" href="." onload=alert(1)>a</a>
+<img src="&{alert('XSS Vulnerable')};"> 
